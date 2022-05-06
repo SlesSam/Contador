@@ -43,7 +43,8 @@ const pause=()=>{
 
 }
 
-//me faltaron dos para que este ejercicio este muy bien =(
+//me faltaron dos para que este ejercicio este muy bien.
+// no se como sulocionarlo, aqui me quede un poco bloqueada =(
 
 
 
