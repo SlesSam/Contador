@@ -34,7 +34,7 @@ const fu = (btn)=>{
 //me falta poner que el usuario me de los intervalos que vaya el contador.
 const timer=()=>{ 
    const tio = parseInt(ti.innerHTML);
-   document.getElementById('numbers').innerHTML = eval(tio +2 );
+   document.getElementById('numbers').innerHTML = eval(tio, 1);
 }
 
 const pause=()=>{
@@ -44,7 +44,9 @@ const pause=()=>{
 }
 
 //me faltaron dos para que este ejercicio este muy bien.
-// no se como sulocionarlo, aqui me quede un poco bloqueada =(
+// no se como sulocionarlo, aqui me quede un poco bloqueada 
+
+
 
 
 
